@@ -21,7 +21,6 @@ This project addresses these challenges by automating the entire expense analyti
    - Tables: `expenses_raw`, `budget_allocation`
    - SQL queries for cleaning, aggregation, and budget vs spend analysis.
 2. **Data Automation & Anomaly Detection (Python Layer):**
-   - Automated expense categorization.
    - Anomaly detection to flag irregular transactions.
 3. **Business Insights Visualization (Power BI Layer):**
    - Dashboards for department-wise spending, budget utilization, vendor analysis, and anomaly highlights.
@@ -59,7 +58,8 @@ Smart-SME-Expense-Analytics-Automation/
 </pre>
 
 ---
-
+## Dashboard Preview
+<img width="655" height="380" alt="image" src="https://github.com/user-attachments/assets/db61a818-de12-4002-9bfc-1b8aaba065ed" />
 
 ---
 
