@@ -1,0 +1,1001 @@
+Expense Date,Department,Expense Type,Vendor,Amount,Payment Method,Budget Allocated
+6/12/2024,HR,Subscription,Microsoft,1903.97,Card,20000
+2/27/2024,IT,Office Supplies,Google,4756.04,Cash,50000
+5/19/2024,HR,Utilities,Shopee,3673.37,Card,20000
+1/8/2024,HR,Travel,Grab,3013.36,Cash,20000
+6/3/2024,HR,Utilities,Grab,822.29,Cash,20000
+6/15/2024,Operations,Software,Grab,822.17,Bank Transfer,25000
+5/30/2024,Marketing,Subscription,AirAsia,337.51,Cash,30000
+4/18/2024,Marketing,Meals,AirAsia,4337.57,Card,30000
+3/27/2024,HR,Subscription,Shopee,3025.52,Card,20000
+4/1/2024,Marketing,Utilities,Microsoft,3554.96,Card,30000
+4/27/2024,Operations,Subscription,Shopee,151.89,Card,25000
+5/21/2024,Marketing,Office Supplies,Maxis,4851.05,Cash,30000
+2/19/2024,HR,Subscription,Grab,4170.59,Bank Transfer,20000
+1/21/2024,IT,Subscription,Shopee,1101.08,Bank Transfer,50000
+4/26/2024,Marketing,Travel,Maxis,950.03,Bank Transfer,30000
+2/23/2024,Marketing,Office Supplies,Google,957.85,Cash,30000
+6/11/2024,IT,Utilities,Grab,1556,Card,50000
+4/28/2024,Finance,Meals,OfficeMate,2647.54,Card,15000
+6/24/2024,Marketing,Subscription,Grab,2188.13,Card,30000
+3/21/2024,Finance,Meals,Google,1491.58,Card,15000
+5/25/2024,Marketing,Travel,TM,3078.67,Bank Transfer,30000
+6/13/2024,Finance,Travel,Microsoft,740.49,Card,15000
+3/4/2024,Operations,Utilities,Microsoft,1496.12,Cash,25000
+5/29/2024,Finance,Utilities,Shopee,1863.49,Bank Transfer,15000
+2/26/2024,IT,Utilities,TM,2307.55,Card,50000
+1/13/2024,HR,Travel,AirAsia,3936.62,Cash,20000
+4/18/2024,Operations,Subscription,Shopee,1038.39,Bank Transfer,25000
+6/1/2024,Finance,Utilities,Microsoft,2595.46,Cash,15000
+1/3/2024,HR,Office Supplies,OfficeMate,2982.45,Bank Transfer,20000
+6/13/2024,Marketing,Subscription,Microsoft,279.93,Bank Transfer,30000
+2/10/2024,Finance,Subscription,Microsoft,3057.35,Cash,15000
+2/15/2024,Operations,Subscription,Microsoft,894.09,Cash,25000
+5/9/2024,Operations,Travel,AirAsia,372.01,Bank Transfer,25000
+2/11/2024,Operations,Utilities,AWS,4746.98,Cash,25000
+3/23/2024,Finance,Subscription,Google,4829.88,Bank Transfer,15000
+3/19/2024,IT,Subscription,Grab,4051.57,Cash,50000
+1/21/2024,HR,Office Supplies,TM,1557.84,Card,20000
+5/16/2024,IT,Travel,TM,533.48,Cash,50000
+2/12/2024,Marketing,Utilities,Shopee,3436.95,Card,30000
+5/18/2024,IT,Office Supplies,Microsoft,2228.75,Bank Transfer,50000
+6/20/2024,Marketing,Software,OfficeMate,654.09,Bank Transfer,30000
+1/31/2024,IT,Travel,Google,2501.13,Bank Transfer,50000
+1/6/2024,Operations,Utilities,Grab,220.22,Cash,25000
+2/26/2024,HR,Subscription,AWS,4551.14,Card,20000
+1/18/2024,HR,Meals,Google,1330.96,Cash,20000
+3/1/2024,Marketing,Office Supplies,TM,3329.49,Card,30000
+5/18/2024,IT,Office Supplies,TM,1592.97,Card,50000
+5/1/2024,Finance,Travel,Google,2624.34,Card,15000
+6/17/2024,Finance,Meals,Shopee,2756.22,Bank Transfer,15000
+4/29/2024,HR,Office Supplies,Google,965.03,Card,20000
+4/13/2024,Marketing,Subscription,Grab,4849.44,Card,30000
+2/18/2024,Operations,Software,AirAsia,3886.91,Bank Transfer,25000
+2/16/2024,Marketing,Software,Grab,4700.52,Card,30000
+4/23/2024,Operations,Subscription,AWS,4479.4,Cash,25000
+5/18/2024,HR,Subscription,Grab,3009.6,Card,20000
+4/14/2024,Finance,Software,Grab,4613.28,Bank Transfer,15000
+1/16/2024,IT,Software,AWS,488.04,Bank Transfer,50000
+3/8/2024,Finance,Meals,Shopee,1020.12,Cash,15000
+5/22/2024,Finance,Travel,Grab,273.88,Bank Transfer,15000
+2/25/2024,HR,Utilities,OfficeMate,1660.39,Card,20000
+3/21/2024,HR,Subscription,TM,1973.95,Cash,20000
+5/15/2024,IT,Subscription,OfficeMate,1393.18,Card,50000
+2/17/2024,HR,Utilities,Google,4152.25,Cash,20000
+3/1/2024,Finance,Subscription,Grab,1815.93,Cash,15000
+6/1/2024,HR,Utilities,Google,1440.63,Bank Transfer,20000
+6/17/2024,Operations,Utilities,OfficeMate,2736.35,Bank Transfer,25000
+3/7/2024,IT,Office Supplies,Maxis,747.57,Card,50000
+3/8/2024,Finance,Travel,Microsoft,4020.88,Bank Transfer,15000
+3/21/2024,HR,Subscription,TM,419.03,Cash,20000
+5/24/2024,HR,Subscription,OfficeMate,4935.09,Card,20000
+5/9/2024,Marketing,Travel,Maxis,3872.61,Card,30000
+3/3/2024,Marketing,Meals,AirAsia,1033.64,Bank Transfer,30000
+5/19/2024,Marketing,Utilities,OfficeMate,77.33,Card,30000
+6/19/2024,Operations,Meals,Google,4086.53,Card,25000
+3/8/2024,HR,Subscription,OfficeMate,3548.94,Card,20000
+3/10/2024,Marketing,Utilities,Grab,3658.59,Cash,30000
+3/28/2024,IT,Office Supplies,Microsoft,3867.79,Cash,50000
+5/5/2024,Marketing,Subscription,Google,416.52,Cash,30000
+4/18/2024,Marketing,Subscription,AWS,1824.41,Bank Transfer,30000
+2/3/2024,Marketing,Travel,TM,623.55,Cash,30000
+6/29/2024,Finance,Utilities,AWS,4322.36,Card,15000
+1/20/2024,IT,Utilities,AWS,3135.33,Bank Transfer,50000
+5/29/2024,Operations,Travel,Shopee,1687.95,Card,25000
+1/11/2024,Marketing,Meals,AWS,364.61,Bank Transfer,30000
+2/23/2024,IT,Office Supplies,Google,1589.36,Bank Transfer,50000
+5/23/2024,Finance,Utilities,AirAsia,1659.66,Card,15000
+2/11/2024,IT,Software,AWS,3661.55,Card,50000
+3/26/2024,Finance,Office Supplies,Grab,3205.91,Bank Transfer,15000
+2/10/2024,HR,Software,AWS,4441.7,Bank Transfer,20000
+2/26/2024,IT,Software,Maxis,2387.46,Bank Transfer,50000
+2/28/2024,IT,Subscription,Grab,641.99,Bank Transfer,50000
+3/25/2024,Marketing,Subscription,Microsoft,3580.56,Bank Transfer,30000
+6/13/2024,Operations,Software,OfficeMate,3815.89,Bank Transfer,25000
+1/8/2024,HR,Meals,AirAsia,2828.32,Cash,20000
+3/8/2024,HR,Subscription,Shopee,3866.29,Bank Transfer,20000
+3/21/2024,Finance,Utilities,OfficeMate,2494.29,Card,15000
+4/8/2024,Operations,Travel,Microsoft,2637.53,Card,25000
+6/30/2024,Finance,Subscription,OfficeMate,2166.33,Cash,15000
+6/24/2024,IT,Meals,Shopee,175.82,Card,50000
+6/19/2024,Marketing,Utilities,Maxis,584.06,Cash,30000
+2/1/2024,Marketing,Utilities,Microsoft,205.57,Cash,30000
+4/14/2024,Marketing,Software,Microsoft,3200.23,Cash,30000
+2/2/2024,IT,Software,Shopee,1606.06,Cash,50000
+2/14/2024,Operations,Utilities,Microsoft,2567.42,Bank Transfer,25000
+5/20/2024,HR,Meals,Microsoft,4542.45,Card,20000
+4/20/2024,Operations,Utilities,Maxis,1284,Bank Transfer,25000
+4/23/2024,Finance,Office Supplies,Grab,2081.4,Cash,15000
+5/1/2024,IT,Office Supplies,Google,3789.98,Bank Transfer,50000
+5/11/2024,Operations,Meals,Google,1182.55,Card,25000
+6/21/2024,Marketing,Travel,Grab,431.05,Card,30000
+1/7/2024,HR,Travel,TM,1484.27,Cash,20000
+1/19/2024,Finance,Software,Grab,848.05,Cash,15000
+6/27/2024,Finance,Software,Shopee,4652,Card,15000
+2/7/2024,HR,Subscription,Shopee,4050.2,Card,20000
+2/15/2024,Operations,Software,AWS,3185.35,Cash,25000
+3/4/2024,HR,Software,AirAsia,4363.73,Bank Transfer,20000
+6/19/2024,Operations,Utilities,Maxis,4028.18,Bank Transfer,25000
+6/5/2024,Operations,Software,OfficeMate,973.52,Bank Transfer,25000
+2/10/2024,Finance,Software,Microsoft,4468.17,Card,15000
+6/12/2024,Marketing,Utilities,TM,2719.74,Cash,30000
+3/2/2024,Marketing,Software,Google,4046.83,Cash,30000
+3/14/2024,IT,Meals,Maxis,4485.65,Bank Transfer,50000
+5/18/2024,HR,Travel,AirAsia,1624.12,Card,20000
+4/8/2024,IT,Office Supplies,Grab,594.76,Card,50000
+4/16/2024,Finance,Meals,OfficeMate,1178.28,Bank Transfer,15000
+4/16/2024,HR,Travel,Shopee,2164.18,Bank Transfer,20000
+5/29/2024,HR,Utilities,Shopee,4099.17,Bank Transfer,20000
+1/2/2024,Marketing,Meals,Shopee,4310.62,Bank Transfer,30000
+5/17/2024,Operations,Utilities,Grab,84.41,Bank Transfer,25000
+2/26/2024,Marketing,Software,TM,2578.2,Card,30000
+4/9/2024,Marketing,Office Supplies,Shopee,2116.18,Cash,30000
+2/12/2024,Finance,Travel,OfficeMate,1149.43,Card,15000
+4/10/2024,Operations,Utilities,AWS,643.33,Card,25000
+6/13/2024,Finance,Travel,TM,1721.2,Card,15000
+1/13/2024,Marketing,Software,Maxis,4717.4,Card,30000
+4/26/2024,Marketing,Meals,Shopee,1649.85,Bank Transfer,30000
+4/17/2024,Marketing,Subscription,TM,2618.01,Card,30000
+5/18/2024,HR,Meals,Grab,3529.94,Cash,20000
+1/18/2024,HR,Subscription,Grab,1849.97,Card,20000
+1/6/2024,Operations,Travel,Grab,4860.32,Card,25000
+5/1/2024,HR,Utilities,Grab,4814.11,Bank Transfer,20000
+6/28/2024,Marketing,Meals,AirAsia,1296.32,Cash,30000
+6/4/2024,HR,Travel,Microsoft,2511.38,Card,20000
+5/28/2024,HR,Meals,Shopee,1539.35,Bank Transfer,20000
+2/20/2024,HR,Utilities,Grab,1459.96,Card,20000
+6/27/2024,Marketing,Office Supplies,Google,232.59,Cash,30000
+1/11/2024,Marketing,Utilities,Shopee,3067.34,Cash,30000
+4/4/2024,HR,Utilities,Maxis,2538.26,Card,20000
+4/17/2024,Finance,Subscription,Shopee,304.82,Bank Transfer,15000
+6/11/2024,Finance,Office Supplies,AirAsia,1429.3,Bank Transfer,15000
+2/15/2024,Operations,Office Supplies,Microsoft,4545.92,Cash,25000
+5/17/2024,Finance,Software,Shopee,1235.83,Cash,15000
+5/31/2024,Marketing,Meals,Grab,767.23,Card,30000
+3/12/2024,Finance,Travel,TM,2472.79,Cash,15000
+6/5/2024,Finance,Meals,AWS,4928.97,Bank Transfer,15000
+3/24/2024,IT,Software,Grab,1248.17,Bank Transfer,50000
+3/7/2024,Marketing,Meals,Microsoft,3377.07,Cash,30000
+1/3/2024,Operations,Travel,Google,3820.02,Card,25000
+4/14/2024,Finance,Utilities,Grab,1226.31,Cash,15000
+5/1/2024,Finance,Software,AWS,3654.67,Card,15000
+3/16/2024,IT,Software,Grab,1870.53,Bank Transfer,50000
+6/18/2024,Operations,Meals,TM,3179.91,Cash,25000
+5/15/2024,Marketing,Software,OfficeMate,3185.97,Bank Transfer,30000
+3/31/2024,Finance,Meals,Microsoft,2702.08,Bank Transfer,15000
+2/29/2024,HR,Office Supplies,Grab,496.93,Bank Transfer,20000
+1/31/2024,Operations,Office Supplies,AirAsia,4184.75,Card,25000
+2/25/2024,Finance,Meals,OfficeMate,1637.86,Cash,15000
+3/13/2024,HR,Travel,Microsoft,973.27,Card,20000
+4/2/2024,IT,Meals,AWS,251.84,Cash,50000
+5/16/2024,IT,Meals,AWS,2974.92,Card,50000
+5/21/2024,Marketing,Office Supplies,AirAsia,3403.94,Cash,30000
+5/5/2024,HR,Subscription,Microsoft,132.11,Bank Transfer,20000
+5/2/2024,Finance,Meals,AirAsia,2584.86,Card,15000
+3/5/2024,Finance,Subscription,Google,1171.15,Bank Transfer,15000
+5/5/2024,HR,Utilities,AWS,3243.61,Card,20000
+2/8/2024,Operations,Meals,Google,913.11,Card,25000
+1/31/2024,Operations,Software,Grab,3470.14,Cash,25000
+4/7/2024,Finance,Software,Microsoft,1964.34,Cash,15000
+4/19/2024,Marketing,Utilities,AWS,4686.81,Cash,30000
+1/26/2024,IT,Office Supplies,Grab,730.73,Bank Transfer,50000
+6/18/2024,HR,Travel,Grab,1738.28,Card,20000
+5/21/2024,HR,Travel,AWS,611.69,Bank Transfer,20000
+4/25/2024,Operations,Software,Microsoft,4627.23,Card,25000
+2/29/2024,Marketing,Office Supplies,Microsoft,4392.83,Cash,30000
+4/26/2024,HR,Office Supplies,Grab,1326.81,Bank Transfer,20000
+6/9/2024,Operations,Office Supplies,Grab,3316.92,Bank Transfer,25000
+1/30/2024,Operations,Travel,AirAsia,4095.25,Bank Transfer,25000
+2/6/2024,HR,Subscription,AirAsia,2798.24,Bank Transfer,20000
+6/1/2024,Operations,Meals,TM,2671.77,Card,25000
+4/29/2024,Marketing,Office Supplies,Shopee,1247.17,Bank Transfer,30000
+5/8/2024,Operations,Software,TM,510.86,Card,25000
+6/2/2024,HR,Software,Maxis,4491.22,Cash,20000
+3/5/2024,HR,Subscription,Grab,4507.07,Cash,20000
+5/27/2024,Operations,Subscription,Microsoft,3183.85,Cash,25000
+1/11/2024,IT,Software,OfficeMate,1728.2,Cash,50000
+4/23/2024,Marketing,Travel,Shopee,1778.59,Cash,30000
+5/5/2024,HR,Software,Maxis,3643.48,Bank Transfer,20000
+3/26/2024,Marketing,Office Supplies,Google,4490.7,Card,30000
+3/25/2024,Finance,Office Supplies,TM,4441.08,Bank Transfer,15000
+6/18/2024,Finance,Utilities,AWS,3910.38,Bank Transfer,15000
+1/23/2024,Marketing,Meals,Maxis,3228.06,Card,30000
+4/13/2024,Operations,Subscription,OfficeMate,466.49,Bank Transfer,25000
+4/15/2024,HR,Travel,OfficeMate,850.06,Bank Transfer,20000
+6/8/2024,Finance,Office Supplies,TM,4497.84,Card,15000
+2/22/2024,Marketing,Utilities,AirAsia,3051.82,Bank Transfer,30000
+4/22/2024,Finance,Subscription,AWS,95.53,Cash,15000
+6/4/2024,IT,Office Supplies,AirAsia,552.28,Bank Transfer,50000
+5/21/2024,HR,Utilities,Shopee,3334.33,Card,20000
+2/27/2024,HR,Software,Google,75.05,Cash,20000
+2/9/2024,Finance,Office Supplies,Microsoft,846,Cash,15000
+6/29/2024,Marketing,Software,TM,2766.23,Bank Transfer,30000
+3/3/2024,Finance,Utilities,AirAsia,3474.88,Bank Transfer,15000
+2/18/2024,Operations,Utilities,AirAsia,3277.21,Card,25000
+3/11/2024,Finance,Meals,OfficeMate,1160.13,Bank Transfer,15000
+1/1/2024,Marketing,Office Supplies,Microsoft,3575.29,Cash,30000
+5/28/2024,Finance,Travel,TM,1224.38,Cash,15000
+5/3/2024,Marketing,Meals,OfficeMate,1660.73,Cash,30000
+4/6/2024,Finance,Meals,Grab,3745.13,Cash,15000
+3/2/2024,Operations,Software,Grab,3265.68,Bank Transfer,25000
+1/12/2024,Marketing,Office Supplies,TM,4253.66,Cash,30000
+4/7/2024,Finance,Office Supplies,AirAsia,3305.18,Bank Transfer,15000
+1/10/2024,IT,Utilities,Maxis,2863.13,Card,50000
+4/22/2024,HR,Utilities,TM,513.69,Card,20000
+2/6/2024,Finance,Office Supplies,AirAsia,1870.19,Card,15000
+4/30/2024,Marketing,Meals,Shopee,1362.75,Cash,30000
+1/21/2024,Marketing,Office Supplies,OfficeMate,1257.75,Bank Transfer,30000
+3/22/2024,Finance,Utilities,AWS,4866.4,Cash,15000
+1/18/2024,IT,Office Supplies,Microsoft,1995.83,Card,50000
+1/24/2024,Finance,Subscription,Google,4465.63,Bank Transfer,15000
+2/12/2024,Marketing,Subscription,AWS,3174.14,Bank Transfer,30000
+1/15/2024,Marketing,Meals,Maxis,3984.32,Bank Transfer,30000
+2/7/2024,IT,Utilities,Shopee,2538.05,Cash,50000
+6/23/2024,IT,Travel,AirAsia,2905.67,Card,50000
+6/5/2024,Finance,Utilities,Grab,2487.96,Bank Transfer,15000
+5/29/2024,IT,Travel,TM,1016.45,Cash,50000
+3/6/2024,Finance,Meals,AWS,3626.14,Bank Transfer,15000
+3/14/2024,Operations,Travel,Google,1439.82,Bank Transfer,25000
+3/29/2024,Operations,Meals,Shopee,170.36,Cash,25000
+3/5/2024,Finance,Meals,Grab,3245.09,Bank Transfer,15000
+5/3/2024,HR,Travel,Shopee,926.7,Cash,20000
+4/1/2024,Operations,Meals,Microsoft,4705.27,Card,25000
+6/17/2024,Finance,Meals,AWS,4771.95,Cash,15000
+6/24/2024,HR,Utilities,TM,4578.58,Bank Transfer,20000
+2/28/2024,Operations,Meals,Grab,1882.29,Cash,25000
+2/18/2024,Operations,Meals,AirAsia,126.51,Cash,25000
+1/25/2024,HR,Meals,TM,4645.18,Card,20000
+5/28/2024,Marketing,Office Supplies,AirAsia,2169.51,Card,30000
+3/16/2024,Marketing,Office Supplies,Shopee,4834.94,Card,30000
+2/21/2024,IT,Utilities,Maxis,4819.92,Cash,50000
+5/8/2024,Marketing,Travel,Microsoft,4272.4,Bank Transfer,30000
+3/16/2024,Marketing,Subscription,TM,1507.52,Card,30000
+2/6/2024,IT,Office Supplies,Shopee,1956.23,Cash,50000
+4/3/2024,HR,Software,AWS,4263.13,Bank Transfer,20000
+5/17/2024,HR,Software,Maxis,1618.76,Cash,20000
+6/21/2024,Marketing,Utilities,Shopee,888.99,Cash,30000
+4/5/2024,HR,Office Supplies,Grab,2806.17,Bank Transfer,20000
+1/7/2024,Operations,Utilities,Maxis,4683.97,Cash,25000
+2/26/2024,HR,Office Supplies,TM,3495.35,Cash,20000
+3/18/2024,Finance,Subscription,AirAsia,2871.8,Card,15000
+1/10/2024,Marketing,Software,Google,531.02,Card,30000
+3/1/2024,Operations,Travel,Shopee,3094.29,Bank Transfer,25000
+4/4/2024,Operations,Software,AirAsia,4950.77,Bank Transfer,25000
+6/16/2024,HR,Software,Shopee,743.42,Bank Transfer,20000
+1/9/2024,Marketing,Travel,TM,2615.73,Bank Transfer,30000
+3/1/2024,Marketing,Subscription,Maxis,4393,Cash,30000
+6/14/2024,Marketing,Subscription,Shopee,3716.8,Bank Transfer,30000
+2/18/2024,HR,Software,Google,3500.23,Cash,20000
+2/24/2024,Operations,Subscription,AWS,3527.3,Bank Transfer,25000
+3/3/2024,IT,Utilities,Grab,1829.48,Card,50000
+5/21/2024,IT,Utilities,Grab,1503.28,Card,50000
+3/25/2024,IT,Utilities,AWS,4056.34,Bank Transfer,50000
+2/7/2024,IT,Utilities,Microsoft,4060.06,Card,50000
+1/29/2024,HR,Travel,AWS,4342.01,Bank Transfer,20000
+3/1/2024,Operations,Meals,AWS,4570.54,Card,25000
+3/8/2024,HR,Travel,Shopee,2581.14,Cash,20000
+1/30/2024,HR,Software,TM,2532.51,Bank Transfer,20000
+5/11/2024,Operations,Subscription,TM,4001.56,Cash,25000
+2/26/2024,Operations,Subscription,OfficeMate,3267.32,Bank Transfer,25000
+4/27/2024,HR,Subscription,TM,3524.74,Bank Transfer,20000
+4/19/2024,HR,Software,TM,3989.17,Card,20000
+1/21/2024,Marketing,Utilities,AirAsia,4455.53,Card,30000
+2/2/2024,Marketing,Utilities,OfficeMate,1723.08,Cash,30000
+3/24/2024,Finance,Utilities,OfficeMate,1909.14,Bank Transfer,15000
+4/26/2024,Operations,Utilities,Shopee,515.21,Card,25000
+6/28/2024,HR,Office Supplies,OfficeMate,2912.49,Cash,20000
+2/25/2024,Finance,Software,Grab,227.91,Bank Transfer,15000
+3/27/2024,Finance,Software,Shopee,2354.71,Cash,15000
+1/25/2024,Marketing,Software,Maxis,2736.09,Cash,30000
+3/6/2024,Marketing,Travel,TM,1468.38,Card,30000
+1/24/2024,HR,Subscription,Shopee,2974.62,Card,20000
+4/5/2024,IT,Utilities,AWS,200.98,Cash,50000
+5/23/2024,Operations,Meals,Google,234.87,Bank Transfer,25000
+3/31/2024,Finance,Office Supplies,AWS,4121.87,Bank Transfer,15000
+6/2/2024,Marketing,Meals,Google,1832.94,Cash,30000
+5/9/2024,IT,Travel,TM,678.95,Card,50000
+1/28/2024,Marketing,Utilities,Maxis,2635.1,Card,30000
+3/12/2024,Operations,Travel,Shopee,3861.47,Cash,25000
+6/8/2024,Operations,Office Supplies,OfficeMate,1118.31,Card,25000
+6/4/2024,Marketing,Subscription,AirAsia,3133.31,Bank Transfer,30000
+6/28/2024,Marketing,Meals,Maxis,472.47,Card,30000
+2/16/2024,IT,Utilities,Shopee,305.82,Card,50000
+2/6/2024,HR,Subscription,OfficeMate,2680.21,Card,20000
+4/6/2024,Finance,Software,Maxis,2726.14,Card,15000
+4/4/2024,Marketing,Office Supplies,Maxis,3205.28,Cash,30000
+6/1/2024,HR,Subscription,AirAsia,3644.15,Card,20000
+6/7/2024,HR,Office Supplies,Google,4880.47,Bank Transfer,20000
+4/23/2024,Finance,Software,TM,2605.69,Bank Transfer,15000
+3/10/2024,IT,Utilities,Google,1648.63,Bank Transfer,50000
+4/20/2024,HR,Meals,TM,3986.17,Cash,20000
+6/19/2024,Marketing,Subscription,Grab,1390.62,Bank Transfer,30000
+6/2/2024,HR,Subscription,Grab,2222.91,Bank Transfer,20000
+2/24/2024,IT,Meals,Microsoft,438.36,Bank Transfer,50000
+1/31/2024,HR,Software,Shopee,175.49,Card,20000
+2/3/2024,Finance,Utilities,Grab,4815.11,Cash,15000
+5/23/2024,Marketing,Subscription,Shopee,4188.1,Cash,30000
+1/11/2024,Finance,Subscription,TM,3495.07,Card,15000
+3/21/2024,Operations,Software,Shopee,2074.32,Cash,25000
+6/12/2024,Finance,Meals,Google,907.81,Bank Transfer,15000
+1/6/2024,Marketing,Travel,TM,824.36,Cash,30000
+4/2/2024,HR,Software,Google,1288.7,Card,20000
+4/21/2024,Operations,Software,OfficeMate,2768.67,Card,25000
+4/11/2024,Marketing,Office Supplies,Maxis,3587.25,Card,30000
+3/26/2024,IT,Subscription,OfficeMate,3317.98,Cash,50000
+1/30/2024,Operations,Utilities,Grab,1435.67,Bank Transfer,25000
+3/30/2024,IT,Travel,Google,4776.58,Card,50000
+3/6/2024,IT,Travel,AirAsia,3702.59,Cash,50000
+1/20/2024,IT,Office Supplies,TM,2794.05,Bank Transfer,50000
+5/24/2024,Operations,Software,Maxis,3078.02,Cash,25000
+3/21/2024,IT,Software,Google,2127.02,Bank Transfer,50000
+4/23/2024,Marketing,Meals,AWS,1276.27,Bank Transfer,30000
+5/9/2024,HR,Meals,TM,1812.06,Bank Transfer,20000
+1/10/2024,HR,Meals,Microsoft,3801.34,Card,20000
+6/14/2024,HR,Utilities,OfficeMate,121.25,Bank Transfer,20000
+4/28/2024,Operations,Utilities,AWS,624.56,Bank Transfer,25000
+5/26/2024,IT,Meals,TM,277.71,Cash,50000
+2/8/2024,HR,Software,Google,251.61,Bank Transfer,20000
+1/22/2024,Operations,Office Supplies,AirAsia,4284.53,Card,25000
+3/4/2024,Finance,Software,OfficeMate,3533.11,Cash,15000
+6/5/2024,IT,Meals,Maxis,2397.16,Bank Transfer,50000
+4/9/2024,Finance,Meals,AWS,534.28,Cash,15000
+6/14/2024,Marketing,Subscription,Maxis,2483.5,Card,30000
+5/22/2024,Finance,Meals,Microsoft,2393.69,Cash,15000
+6/17/2024,Operations,Travel,Maxis,907.35,Card,25000
+5/29/2024,IT,Meals,Microsoft,2197.57,Cash,50000
+6/27/2024,Finance,Travel,Google,2022.6,Bank Transfer,15000
+5/23/2024,Finance,Office Supplies,Maxis,3098.46,Card,15000
+6/20/2024,Operations,Subscription,Shopee,3193.71,Cash,25000
+4/2/2024,HR,Meals,Microsoft,274.25,Card,20000
+2/24/2024,Marketing,Software,Grab,1904.33,Card,30000
+2/5/2024,IT,Subscription,Microsoft,3148.01,Card,50000
+5/9/2024,Operations,Office Supplies,OfficeMate,2540.52,Card,25000
+6/18/2024,Marketing,Utilities,AirAsia,4289.62,Cash,30000
+4/6/2024,IT,Travel,AirAsia,3310.53,Cash,50000
+6/8/2024,IT,Office Supplies,TM,856.53,Card,50000
+4/15/2024,Marketing,Office Supplies,Grab,399.32,Bank Transfer,30000
+6/5/2024,Marketing,Office Supplies,TM,3229.98,Card,30000
+5/16/2024,IT,Meals,TM,181.23,Card,50000
+4/4/2024,Operations,Software,TM,2949.59,Bank Transfer,25000
+4/7/2024,Operations,Utilities,Shopee,4704.14,Card,25000
+2/21/2024,Operations,Travel,Microsoft,2898.6,Card,25000
+6/13/2024,Finance,Meals,OfficeMate,1971.44,Card,15000
+5/12/2024,HR,Meals,Google,3234.28,Card,20000
+3/10/2024,Finance,Utilities,AirAsia,2318.35,Bank Transfer,15000
+1/24/2024,IT,Software,Maxis,2750.8,Card,50000
+4/16/2024,HR,Software,OfficeMate,4710.25,Bank Transfer,20000
+3/1/2024,Finance,Subscription,Maxis,1961.21,Card,15000
+1/8/2024,Marketing,Subscription,Maxis,4807.89,Card,30000
+2/5/2024,HR,Meals,TM,4531.49,Cash,20000
+2/5/2024,Finance,Software,AWS,1019.17,Card,15000
+1/5/2024,Marketing,Travel,AirAsia,393.34,Cash,30000
+6/4/2024,Operations,Software,Google,548.85,Bank Transfer,25000
+3/1/2024,Marketing,Subscription,AWS,140.2,Card,30000
+4/17/2024,Operations,Software,Google,517.49,Card,25000
+5/7/2024,Operations,Utilities,AWS,3430.88,Cash,25000
+5/11/2024,Operations,Travel,AirAsia,402.38,Bank Transfer,25000
+4/19/2024,HR,Utilities,Maxis,1628.93,Card,20000
+5/26/2024,Finance,Travel,Google,4232.13,Cash,15000
+4/2/2024,HR,Utilities,OfficeMate,165.2,Cash,20000
+5/9/2024,Operations,Subscription,Shopee,4081.62,Bank Transfer,25000
+1/12/2024,Finance,Meals,Microsoft,1445.18,Cash,15000
+1/5/2024,Marketing,Subscription,Maxis,634.92,Card,30000
+6/17/2024,HR,Utilities,Maxis,3498.85,Card,20000
+1/12/2024,Marketing,Utilities,Maxis,3163.27,Cash,30000
+2/14/2024,Finance,Office Supplies,TM,4393.49,Cash,15000
+2/16/2024,IT,Subscription,TM,3688.6,Card,50000
+3/16/2024,IT,Subscription,Grab,4027.23,Card,50000
+3/21/2024,Marketing,Utilities,Shopee,1446.07,Cash,30000
+5/1/2024,Marketing,Subscription,Grab,928.33,Bank Transfer,30000
+4/1/2024,HR,Office Supplies,Maxis,3765.54,Bank Transfer,20000
+2/1/2024,Marketing,Software,Shopee,4043.83,Cash,30000
+4/22/2024,Finance,Meals,AirAsia,4953,Bank Transfer,15000
+6/26/2024,Finance,Meals,OfficeMate,2092.46,Bank Transfer,15000
+1/22/2024,Finance,Subscription,Shopee,1891.49,Cash,15000
+2/16/2024,Operations,Meals,Maxis,3893.24,Card,25000
+1/21/2024,Marketing,Office Supplies,Microsoft,1736.98,Bank Transfer,30000
+4/24/2024,Operations,Office Supplies,Shopee,4657.25,Card,25000
+6/25/2024,Finance,Meals,TM,4299.14,Card,15000
+3/31/2024,Operations,Software,Microsoft,2173.52,Cash,25000
+1/15/2024,HR,Office Supplies,Shopee,3766.81,Bank Transfer,20000
+5/11/2024,IT,Subscription,AirAsia,3784.99,Cash,50000
+6/22/2024,Finance,Subscription,AirAsia,560.46,Card,15000
+3/1/2024,Marketing,Meals,Shopee,4517.64,Cash,30000
+1/9/2024,Operations,Travel,TM,2551,Bank Transfer,25000
+4/5/2024,Finance,Subscription,AirAsia,4140.96,Cash,15000
+4/3/2024,Finance,Meals,Microsoft,1634.25,Card,15000
+1/30/2024,HR,Office Supplies,AirAsia,4482.84,Bank Transfer,20000
+5/12/2024,Finance,Utilities,Google,1976.55,Bank Transfer,15000
+3/7/2024,Finance,Travel,Microsoft,103.65,Cash,15000
+5/5/2024,IT,Subscription,AirAsia,4531.64,Card,50000
+4/25/2024,IT,Office Supplies,TM,501.87,Card,50000
+6/23/2024,Marketing,Office Supplies,Maxis,1630.6,Cash,30000
+1/17/2024,Operations,Utilities,Microsoft,4752.81,Bank Transfer,25000
+2/10/2024,IT,Meals,OfficeMate,4755.51,Card,50000
+2/1/2024,IT,Travel,Grab,2888.52,Bank Transfer,50000
+1/7/2024,Marketing,Utilities,Maxis,3177.59,Bank Transfer,30000
+5/21/2024,IT,Utilities,Google,2269.81,Card,50000
+3/20/2024,Finance,Office Supplies,TM,1501.39,Cash,15000
+4/15/2024,Finance,Utilities,Google,1676.89,Card,15000
+3/22/2024,HR,Software,TM,3378.97,Cash,20000
+5/12/2024,Marketing,Travel,OfficeMate,3774.25,Cash,30000
+5/30/2024,IT,Travel,Shopee,3968.32,Cash,50000
+1/15/2024,HR,Utilities,AirAsia,3958.61,Bank Transfer,20000
+2/12/2024,IT,Meals,Grab,501.47,Bank Transfer,50000
+5/12/2024,Marketing,Subscription,Microsoft,2497.38,Card,30000
+6/11/2024,Operations,Meals,AirAsia,334.92,Cash,25000
+3/18/2024,Operations,Utilities,Google,2770.17,Cash,25000
+6/13/2024,IT,Utilities,AirAsia,2235.58,Card,50000
+6/17/2024,Operations,Office Supplies,Maxis,4444.14,Cash,25000
+1/11/2024,HR,Subscription,AWS,1787.03,Cash,20000
+5/27/2024,Marketing,Office Supplies,Grab,629.48,Cash,30000
+4/16/2024,Operations,Office Supplies,AWS,757.81,Bank Transfer,25000
+6/9/2024,Operations,Meals,Microsoft,3819.48,Bank Transfer,25000
+3/3/2024,Finance,Meals,TM,3110.18,Card,15000
+6/25/2024,HR,Travel,TM,550.56,Bank Transfer,20000
+5/3/2024,Finance,Travel,Maxis,466.33,Cash,15000
+2/6/2024,Marketing,Office Supplies,Maxis,3519.8,Cash,30000
+3/29/2024,Finance,Travel,Maxis,410.18,Cash,15000
+5/23/2024,HR,Meals,Grab,4118.21,Bank Transfer,20000
+2/1/2024,Marketing,Software,Grab,3545.9,Card,30000
+1/25/2024,HR,Meals,Shopee,452.68,Cash,20000
+4/17/2024,IT,Travel,Maxis,469.95,Cash,50000
+3/21/2024,IT,Travel,TM,4933.87,Cash,50000
+4/29/2024,Finance,Meals,TM,1902.64,Card,15000
+1/24/2024,Finance,Utilities,TM,1884.68,Card,15000
+2/25/2024,Operations,Meals,AWS,4073.36,Card,25000
+3/13/2024,Finance,Utilities,TM,4738.88,Bank Transfer,15000
+5/17/2024,HR,Subscription,Shopee,4930.71,Card,20000
+3/8/2024,Marketing,Software,Maxis,3779.22,Card,30000
+4/12/2024,HR,Utilities,OfficeMate,1912.48,Card,20000
+4/2/2024,Operations,Meals,Google,463.33,Bank Transfer,25000
+5/9/2024,Finance,Utilities,Microsoft,3896.88,Cash,15000
+6/23/2024,Operations,Subscription,AirAsia,2814.1,Card,25000
+4/10/2024,Marketing,Meals,OfficeMate,2149.9,Bank Transfer,30000
+2/6/2024,IT,Utilities,OfficeMate,4536.45,Bank Transfer,50000
+5/8/2024,HR,Subscription,AWS,600.43,Card,20000
+3/26/2024,Finance,Utilities,TM,2488.49,Card,15000
+6/4/2024,Operations,Travel,Maxis,106.2,Cash,25000
+3/22/2024,IT,Software,Microsoft,2369.87,Cash,50000
+3/27/2024,Operations,Utilities,OfficeMate,328.7,Bank Transfer,25000
+6/30/2024,Operations,Meals,TM,638.15,Card,25000
+4/4/2024,Marketing,Office Supplies,Google,631.75,Bank Transfer,30000
+5/29/2024,Marketing,Office Supplies,AWS,3263.59,Cash,30000
+5/1/2024,Marketing,Office Supplies,Grab,3742.92,Cash,30000
+1/14/2024,Operations,Software,AirAsia,2937.68,Cash,25000
+6/10/2024,Operations,Software,AirAsia,4812.75,Cash,25000
+3/3/2024,HR,Utilities,Google,1905.61,Card,20000
+1/5/2024,Finance,Meals,Shopee,1464.27,Card,15000
+4/15/2024,IT,Software,OfficeMate,4349.57,Cash,50000
+4/30/2024,HR,Office Supplies,AirAsia,1156.8,Cash,20000
+2/23/2024,Operations,Meals,TM,4817.95,Cash,25000
+4/6/2024,Marketing,Travel,TM,110.16,Cash,30000
+3/28/2024,Operations,Meals,Microsoft,4850.9,Cash,25000
+5/3/2024,IT,Travel,Microsoft,263.64,Cash,50000
+3/17/2024,IT,Meals,Microsoft,4461.16,Cash,50000
+2/23/2024,Finance,Meals,TM,2662.12,Bank Transfer,15000
+5/23/2024,Marketing,Meals,Google,4965.18,Cash,30000
+6/22/2024,Operations,Software,Shopee,415.29,Bank Transfer,25000
+2/7/2024,Marketing,Subscription,Microsoft,2791.58,Cash,30000
+1/21/2024,Marketing,Software,Microsoft,4848.05,Cash,30000
+5/2/2024,IT,Travel,OfficeMate,2639.33,Bank Transfer,50000
+5/23/2024,Marketing,Travel,Google,3165.52,Cash,30000
+5/30/2024,IT,Travel,AWS,3493.96,Cash,50000
+5/15/2024,IT,Office Supplies,Grab,2299.98,Card,50000
+1/26/2024,Finance,Meals,TM,3156.41,Card,15000
+6/23/2024,IT,Subscription,OfficeMate,2942.36,Card,50000
+4/14/2024,Finance,Software,Grab,4510.73,Bank Transfer,15000
+3/23/2024,Marketing,Office Supplies,AWS,274.96,Card,30000
+6/15/2024,Operations,Travel,OfficeMate,1440.77,Cash,25000
+1/10/2024,IT,Software,AirAsia,4754.54,Card,50000
+4/11/2024,Finance,Travel,Microsoft,4456.81,Card,15000
+1/3/2024,Marketing,Utilities,Google,2305.5,Bank Transfer,30000
+3/13/2024,Finance,Office Supplies,OfficeMate,3119.66,Cash,15000
+5/6/2024,IT,Utilities,TM,1423.04,Bank Transfer,50000
+2/19/2024,HR,Meals,AirAsia,981.2,Cash,20000
+4/27/2024,Marketing,Office Supplies,AirAsia,2345.31,Card,30000
+3/27/2024,Marketing,Utilities,Grab,1799.09,Card,30000
+6/5/2024,Finance,Software,OfficeMate,2939.1,Bank Transfer,15000
+1/23/2024,Finance,Office Supplies,Google,434.79,Card,15000
+2/5/2024,Finance,Meals,Grab,4873.25,Card,15000
+3/7/2024,Finance,Travel,TM,4931.74,Bank Transfer,15000
+3/25/2024,Marketing,Utilities,AWS,3505.9,Bank Transfer,30000
+6/16/2024,Marketing,Office Supplies,Grab,2703.68,Card,30000
+6/19/2024,HR,Software,Microsoft,1582.16,Card,20000
+4/13/2024,Operations,Office Supplies,Microsoft,4078.29,Cash,25000
+1/31/2024,Marketing,Meals,Grab,3439.42,Card,30000
+2/4/2024,Finance,Travel,TM,854.95,Cash,15000
+6/4/2024,Marketing,Software,OfficeMate,4559.09,Bank Transfer,30000
+5/17/2024,IT,Travel,Google,4121.56,Cash,50000
+4/24/2024,Operations,Office Supplies,Maxis,4751.51,Card,25000
+5/24/2024,HR,Subscription,OfficeMate,3642.31,Cash,20000
+2/21/2024,Operations,Utilities,AirAsia,3086.41,Card,25000
+3/24/2024,Operations,Software,Google,2120.3,Cash,25000
+2/22/2024,Operations,Software,Google,4667.01,Cash,25000
+4/24/2024,HR,Software,AirAsia,4337.02,Cash,20000
+4/16/2024,Finance,Utilities,AWS,273.83,Cash,15000
+4/28/2024,Marketing,Office Supplies,AWS,180.52,Bank Transfer,30000
+3/6/2024,HR,Office Supplies,Grab,1913.49,Cash,20000
+1/19/2024,HR,Software,Maxis,4062.24,Cash,20000
+1/17/2024,Operations,Subscription,Google,4937.02,Bank Transfer,25000
+1/9/2024,Marketing,Software,AirAsia,794.56,Card,30000
+6/13/2024,Finance,Meals,Shopee,2990.95,Bank Transfer,15000
+4/6/2024,Finance,Subscription,OfficeMate,1935.41,Card,15000
+6/16/2024,Marketing,Subscription,AirAsia,4851.08,Cash,30000
+4/10/2024,Operations,Travel,Grab,4218.49,Card,25000
+1/6/2024,Marketing,Software,OfficeMate,4199.73,Bank Transfer,30000
+5/16/2024,Finance,Travel,Grab,2370.03,Bank Transfer,15000
+3/29/2024,IT,Meals,Grab,2103.36,Cash,50000
+1/29/2024,HR,Office Supplies,Shopee,1403.37,Cash,20000
+1/5/2024,IT,Travel,Google,329.06,Card,50000
+6/1/2024,HR,Software,AWS,4330.38,Card,20000
+1/12/2024,Finance,Software,Grab,4073.86,Cash,15000
+2/25/2024,HR,Travel,OfficeMate,4998.6,Bank Transfer,20000
+2/29/2024,Operations,Meals,Maxis,4983.35,Card,25000
+3/18/2024,IT,Office Supplies,OfficeMate,2799.39,Card,50000
+4/15/2024,Marketing,Meals,AWS,3856.49,Cash,30000
+5/31/2024,IT,Office Supplies,Shopee,4726.59,Cash,50000
+5/6/2024,HR,Meals,Shopee,4255.75,Cash,20000
+3/22/2024,Finance,Software,AirAsia,1274.37,Bank Transfer,15000
+4/6/2024,IT,Utilities,TM,2280.19,Card,50000
+2/27/2024,Marketing,Office Supplies,AirAsia,689.34,Bank Transfer,30000
+1/15/2024,Operations,Software,Shopee,4772.55,Cash,25000
+5/15/2024,IT,Software,Grab,3050.56,Bank Transfer,50000
+2/22/2024,Marketing,Office Supplies,Google,1181.78,Bank Transfer,30000
+4/4/2024,HR,Utilities,Grab,3374.92,Card,20000
+3/9/2024,Finance,Office Supplies,AWS,3109.73,Card,15000
+2/18/2024,Operations,Office Supplies,OfficeMate,1822.91,Card,25000
+5/2/2024,IT,Meals,Microsoft,612.11,Card,50000
+2/24/2024,IT,Office Supplies,Google,3374.29,Cash,50000
+5/2/2024,IT,Office Supplies,Grab,2625.52,Bank Transfer,50000
+3/2/2024,Operations,Meals,Microsoft,3872.98,Bank Transfer,25000
+4/29/2024,Operations,Office Supplies,Maxis,2624.81,Bank Transfer,25000
+3/7/2024,Marketing,Utilities,TM,4268.3,Bank Transfer,30000
+1/26/2024,Finance,Meals,Grab,2781.94,Bank Transfer,15000
+3/21/2024,Finance,Subscription,Grab,2826.64,Cash,15000
+2/7/2024,HR,Meals,OfficeMate,4389.44,Cash,20000
+5/28/2024,Finance,Meals,AirAsia,2047.24,Card,15000
+3/25/2024,IT,Software,Grab,713.38,Bank Transfer,50000
+5/20/2024,Marketing,Meals,TM,192.47,Cash,30000
+6/13/2024,Finance,Software,AirAsia,3787.93,Cash,15000
+3/31/2024,IT,Travel,OfficeMate,3120.53,Bank Transfer,50000
+2/17/2024,Operations,Office Supplies,AWS,3535.19,Cash,25000
+1/9/2024,HR,Office Supplies,AWS,1104.17,Card,20000
+4/15/2024,IT,Office Supplies,Grab,725.04,Card,50000
+6/30/2024,IT,Subscription,Grab,122,Cash,50000
+4/26/2024,Marketing,Subscription,TM,1785.41,Cash,30000
+5/4/2024,HR,Subscription,OfficeMate,2970.09,Cash,20000
+4/15/2024,HR,Subscription,OfficeMate,1991.61,Cash,20000
+3/11/2024,Operations,Meals,AWS,2215.5,Cash,25000
+6/27/2024,Finance,Travel,Google,4525.59,Card,15000
+5/14/2024,IT,Travel,Grab,1773.86,Cash,50000
+5/14/2024,Marketing,Meals,Microsoft,2594.25,Bank Transfer,30000
+1/21/2024,Marketing,Software,TM,3929.08,Cash,30000
+3/3/2024,IT,Meals,Google,2012.89,Cash,50000
+6/15/2024,HR,Subscription,Shopee,3129.33,Bank Transfer,20000
+4/6/2024,Operations,Software,AWS,4318.7,Cash,25000
+1/3/2024,IT,Subscription,TM,4750.13,Bank Transfer,50000
+6/14/2024,Marketing,Utilities,Google,778.01,Cash,30000
+1/11/2024,IT,Travel,TM,4636.61,Bank Transfer,50000
+1/12/2024,HR,Office Supplies,Microsoft,2485.98,Cash,20000
+5/24/2024,HR,Travel,Maxis,1328.31,Card,20000
+2/23/2024,Operations,Travel,Shopee,2322.72,Card,25000
+3/17/2024,IT,Utilities,Grab,4901.16,Cash,50000
+4/9/2024,Operations,Meals,Shopee,2488.46,Cash,25000
+2/5/2024,HR,Utilities,Maxis,1677.32,Card,20000
+1/26/2024,Finance,Travel,Google,3185.33,Bank Transfer,15000
+6/3/2024,Operations,Utilities,Shopee,1238.72,Bank Transfer,25000
+1/8/2024,Marketing,Software,TM,425.52,Card,30000
+4/1/2024,Operations,Software,Shopee,687.95,Card,25000
+6/23/2024,Operations,Office Supplies,Shopee,683.83,Card,25000
+6/7/2024,Marketing,Travel,Google,801.92,Card,30000
+3/9/2024,IT,Software,AirAsia,737.19,Cash,50000
+4/9/2024,Marketing,Meals,Google,3222.33,Card,30000
+1/2/2024,Marketing,Software,Maxis,950.31,Bank Transfer,30000
+1/27/2024,IT,Subscription,AirAsia,1761.05,Bank Transfer,50000
+4/24/2024,Operations,Utilities,OfficeMate,4489.1,Bank Transfer,25000
+1/27/2024,HR,Subscription,Maxis,2396.11,Cash,20000
+1/24/2024,Operations,Utilities,Maxis,3354.41,Bank Transfer,25000
+1/4/2024,Marketing,Software,Shopee,902.98,Card,30000
+5/23/2024,IT,Utilities,OfficeMate,1001.83,Card,50000
+6/24/2024,Finance,Travel,AirAsia,252.3,Bank Transfer,15000
+3/18/2024,Marketing,Software,AirAsia,886.23,Card,30000
+2/12/2024,Finance,Meals,Shopee,1429.02,Bank Transfer,15000
+5/3/2024,HR,Meals,Microsoft,926.2,Card,20000
+6/9/2024,Finance,Utilities,Grab,489.08,Bank Transfer,15000
+1/28/2024,IT,Meals,AWS,647.15,Bank Transfer,50000
+3/26/2024,Operations,Software,Maxis,2330.85,Bank Transfer,25000
+3/26/2024,Finance,Office Supplies,AirAsia,1071.35,Bank Transfer,15000
+3/23/2024,Operations,Office Supplies,Grab,1853.14,Bank Transfer,25000
+3/21/2024,IT,Software,Maxis,2541.92,Bank Transfer,50000
+6/26/2024,Finance,Utilities,Grab,3467.45,Bank Transfer,15000
+4/6/2024,Marketing,Software,Maxis,244.6,Card,30000
+5/24/2024,IT,Utilities,OfficeMate,4007.08,Card,50000
+6/23/2024,Operations,Subscription,TM,3158.11,Cash,25000
+2/23/2024,Finance,Meals,Google,454.71,Bank Transfer,15000
+6/21/2024,Finance,Travel,Microsoft,4374.21,Card,15000
+3/5/2024,IT,Office Supplies,Shopee,4608.32,Bank Transfer,50000
+1/19/2024,Finance,Utilities,TM,352.34,Cash,15000
+4/12/2024,Operations,Utilities,Shopee,1420.54,Cash,25000
+1/10/2024,Marketing,Office Supplies,OfficeMate,4040.7,Cash,30000
+6/12/2024,HR,Subscription,Grab,3753.89,Cash,20000
+6/19/2024,Marketing,Travel,AWS,963.38,Cash,30000
+6/14/2024,Finance,Meals,Shopee,1086.28,Card,15000
+1/3/2024,HR,Meals,Grab,1883.84,Cash,20000
+5/12/2024,Operations,Utilities,Grab,2448.39,Bank Transfer,25000
+4/5/2024,Finance,Software,OfficeMate,3110.36,Card,15000
+3/29/2024,HR,Software,Google,1876.12,Bank Transfer,20000
+4/16/2024,HR,Subscription,AirAsia,2339.55,Bank Transfer,20000
+3/20/2024,Marketing,Software,Grab,3749.98,Cash,30000
+5/3/2024,Marketing,Software,Google,231.58,Bank Transfer,30000
+6/27/2024,Finance,Meals,Google,1299.56,Bank Transfer,15000
+1/12/2024,HR,Subscription,Maxis,3581.08,Cash,20000
+1/28/2024,IT,Office Supplies,Grab,4481.27,Cash,50000
+2/14/2024,Operations,Travel,Maxis,2582.8,Cash,25000
+4/19/2024,Finance,Travel,Shopee,2683.96,Cash,15000
+2/17/2024,IT,Office Supplies,Shopee,580.5,Bank Transfer,50000
+1/8/2024,Operations,Travel,TM,2264.69,Cash,25000
+4/19/2024,Finance,Subscription,Grab,2686.46,Card,15000
+3/12/2024,HR,Utilities,Google,1250.23,Cash,20000
+2/17/2024,Marketing,Meals,Grab,1382.75,Bank Transfer,30000
+1/30/2024,Marketing,Office Supplies,TM,1917.56,Cash,30000
+6/12/2024,Marketing,Utilities,Shopee,149.35,Cash,30000
+4/10/2024,Operations,Subscription,Maxis,1644.29,Bank Transfer,25000
+4/27/2024,Operations,Travel,Microsoft,1096.67,Cash,25000
+5/31/2024,HR,Office Supplies,AirAsia,1671.11,Bank Transfer,20000
+1/31/2024,IT,Meals,Google,642.82,Card,50000
+4/5/2024,IT,Utilities,Shopee,4458.11,Bank Transfer,50000
+6/1/2024,IT,Utilities,Shopee,2988.28,Bank Transfer,50000
+2/17/2024,Finance,Office Supplies,OfficeMate,3411.56,Cash,15000
+6/14/2024,IT,Utilities,AirAsia,3956.4,Bank Transfer,50000
+3/14/2024,IT,Travel,Maxis,2517.29,Bank Transfer,50000
+6/7/2024,HR,Meals,AWS,480.26,Bank Transfer,20000
+2/4/2024,IT,Software,OfficeMate,2708.68,Cash,50000
+6/16/2024,Finance,Software,TM,2954.86,Bank Transfer,15000
+6/30/2024,Finance,Software,AirAsia,3739.93,Card,15000
+5/24/2024,HR,Travel,Microsoft,2186.71,Card,20000
+3/11/2024,IT,Utilities,Microsoft,681.52,Card,50000
+4/27/2024,Operations,Office Supplies,TM,1454.69,Cash,25000
+5/10/2024,HR,Utilities,Google,1847.26,Bank Transfer,20000
+5/19/2024,Marketing,Utilities,AWS,3247.29,Cash,30000
+4/22/2024,Operations,Travel,Shopee,2875.35,Card,25000
+6/16/2024,IT,Meals,AWS,1812.68,Bank Transfer,50000
+3/8/2024,Marketing,Subscription,TM,4933.25,Card,30000
+3/1/2024,IT,Office Supplies,Maxis,3048.59,Cash,50000
+6/5/2024,Finance,Travel,AirAsia,1224.27,Card,15000
+2/22/2024,HR,Utilities,Maxis,553.82,Cash,20000
+3/12/2024,Operations,Utilities,AirAsia,806.65,Bank Transfer,25000
+6/29/2024,Marketing,Meals,Microsoft,1267.49,Cash,30000
+6/22/2024,HR,Travel,Shopee,845.37,Card,20000
+3/11/2024,IT,Office Supplies,AirAsia,973.51,Card,50000
+2/7/2024,Marketing,Travel,Shopee,1461.22,Bank Transfer,30000
+2/6/2024,Operations,Office Supplies,Microsoft,908.2,Cash,25000
+4/16/2024,Finance,Software,Google,4488.99,Cash,15000
+1/24/2024,Finance,Utilities,Microsoft,447.16,Cash,15000
+4/4/2024,Finance,Software,Maxis,2646.33,Cash,15000
+1/1/2024,HR,Office Supplies,TM,2081.46,Cash,20000
+6/19/2024,Marketing,Subscription,OfficeMate,4912.77,Bank Transfer,30000
+2/25/2024,Finance,Travel,TM,604.59,Bank Transfer,15000
+3/23/2024,Marketing,Meals,OfficeMate,2019.39,Cash,30000
+2/3/2024,Operations,Software,Maxis,4848.88,Cash,25000
+1/13/2024,HR,Subscription,TM,4334.26,Card,20000
+2/1/2024,IT,Software,TM,4094.51,Card,50000
+4/19/2024,IT,Office Supplies,AirAsia,1326.62,Cash,50000
+3/18/2024,IT,Meals,Google,895.89,Cash,50000
+4/2/2024,Marketing,Subscription,Maxis,3359.78,Cash,30000
+6/15/2024,IT,Subscription,Shopee,4650.41,Cash,50000
+3/19/2024,IT,Software,Google,2805.98,Cash,50000
+1/25/2024,HR,Travel,TM,2879.48,Card,20000
+2/3/2024,Operations,Travel,OfficeMate,1435.9,Cash,25000
+4/23/2024,HR,Subscription,Maxis,3858.99,Card,20000
+4/18/2024,IT,Software,Google,975.87,Card,50000
+4/8/2024,HR,Office Supplies,Google,1652.21,Card,20000
+3/21/2024,Marketing,Meals,AirAsia,2155.91,Bank Transfer,30000
+2/4/2024,IT,Subscription,OfficeMate,2562.67,Cash,50000
+1/3/2024,Operations,Office Supplies,AirAsia,1249.93,Bank Transfer,25000
+3/30/2024,IT,Office Supplies,AirAsia,618.44,Bank Transfer,50000
+6/6/2024,Finance,Travel,Google,3072.57,Card,15000
+2/5/2024,HR,Utilities,Shopee,1478.72,Bank Transfer,20000
+4/19/2024,Marketing,Travel,Grab,2927.13,Bank Transfer,30000
+6/14/2024,HR,Travel,OfficeMate,814.1,Cash,20000
+6/2/2024,Operations,Meals,AWS,2431.64,Cash,25000
+3/18/2024,IT,Utilities,OfficeMate,2686.32,Card,50000
+4/10/2024,Marketing,Office Supplies,AWS,306.53,Card,30000
+5/6/2024,Finance,Subscription,Grab,1716.19,Bank Transfer,15000
+6/12/2024,Operations,Subscription,OfficeMate,715.35,Card,25000
+4/2/2024,Marketing,Travel,Shopee,363.71,Cash,30000
+4/17/2024,Marketing,Utilities,AirAsia,4950.3,Bank Transfer,30000
+1/19/2024,HR,Utilities,Google,1645.65,Card,20000
+3/8/2024,IT,Subscription,AWS,4058.88,Bank Transfer,50000
+5/9/2024,Marketing,Office Supplies,OfficeMate,1310.47,Bank Transfer,30000
+4/18/2024,Finance,Subscription,OfficeMate,3423.44,Cash,15000
+6/6/2024,IT,Meals,Google,3813.13,Bank Transfer,50000
+1/21/2024,Operations,Travel,AirAsia,2998.41,Cash,25000
+3/24/2024,Finance,Utilities,Google,2384.3,Bank Transfer,15000
+6/27/2024,Finance,Office Supplies,Grab,2088.61,Card,15000
+3/3/2024,HR,Software,Google,1776.9,Bank Transfer,20000
+6/5/2024,Operations,Subscription,Microsoft,4651.17,Cash,25000
+6/17/2024,IT,Subscription,AWS,4161.57,Cash,50000
+2/5/2024,HR,Travel,TM,4826.88,Bank Transfer,20000
+5/13/2024,Operations,Office Supplies,Microsoft,665.27,Card,25000
+4/5/2024,IT,Office Supplies,Microsoft,3667.79,Cash,50000
+1/31/2024,HR,Meals,Shopee,4694.79,Bank Transfer,20000
+5/14/2024,HR,Meals,Google,947.1,Bank Transfer,20000
+4/26/2024,Operations,Meals,AWS,379.16,Bank Transfer,25000
+5/25/2024,IT,Meals,AirAsia,3718.55,Bank Transfer,50000
+1/27/2024,Operations,Office Supplies,Google,2893.64,Card,25000
+5/10/2024,HR,Subscription,AWS,4217.05,Card,20000
+1/12/2024,Finance,Meals,Shopee,741.87,Card,15000
+2/15/2024,HR,Utilities,Shopee,3986.57,Card,20000
+3/23/2024,IT,Software,Maxis,1048.06,Bank Transfer,50000
+1/20/2024,Operations,Meals,Google,860.1,Cash,25000
+6/21/2024,HR,Travel,Grab,863.12,Cash,20000
+1/12/2024,Finance,Subscription,TM,4082.14,Bank Transfer,15000
+3/20/2024,Marketing,Subscription,OfficeMate,3342.73,Bank Transfer,30000
+1/3/2024,Marketing,Travel,Microsoft,2639.17,Cash,30000
+3/18/2024,Operations,Travel,TM,1826.21,Bank Transfer,25000
+5/31/2024,Finance,Travel,OfficeMate,4392.14,Card,15000
+2/8/2024,HR,Software,AWS,1992.6,Card,20000
+5/18/2024,Marketing,Office Supplies,AWS,4092.17,Bank Transfer,30000
+1/1/2024,Finance,Office Supplies,Microsoft,2223.72,Card,15000
+2/22/2024,Operations,Travel,Shopee,1915.87,Bank Transfer,25000
+1/16/2024,IT,Office Supplies,Microsoft,2340.26,Card,50000
+1/12/2024,IT,Utilities,Shopee,1541.82,Cash,50000
+4/5/2024,Finance,Office Supplies,Google,3750.67,Cash,15000
+1/25/2024,Operations,Travel,Shopee,2538.47,Card,25000
+5/31/2024,Operations,Subscription,Shopee,1199.45,Cash,25000
+2/3/2024,IT,Meals,Microsoft,4502.89,Bank Transfer,50000
+4/10/2024,Marketing,Meals,TM,1950.26,Bank Transfer,30000
+2/29/2024,HR,Travel,AirAsia,2740.59,Cash,20000
+1/28/2024,IT,Subscription,AirAsia,4537.04,Bank Transfer,50000
+4/29/2024,Marketing,Software,Google,3139.98,Cash,30000
+4/1/2024,IT,Software,Microsoft,628.65,Bank Transfer,50000
+3/8/2024,HR,Subscription,AirAsia,4702.17,Cash,20000
+3/18/2024,Operations,Subscription,Grab,3157.15,Bank Transfer,25000
+2/7/2024,HR,Office Supplies,Grab,1707.78,Bank Transfer,20000
+4/11/2024,Operations,Subscription,Microsoft,739.4,Bank Transfer,25000
+2/14/2024,HR,Software,TM,3980.42,Cash,20000
+5/20/2024,IT,Subscription,TM,3119.36,Card,50000
+2/5/2024,HR,Subscription,AWS,2690.63,Card,20000
+2/3/2024,IT,Software,Maxis,4474.77,Cash,50000
+6/10/2024,HR,Utilities,Microsoft,3953.56,Card,20000
+1/6/2024,HR,Travel,TM,800.79,Card,20000
+1/24/2024,Marketing,Subscription,AWS,1593.02,Bank Transfer,30000
+1/13/2024,IT,Utilities,Shopee,1280.02,Cash,50000
+4/11/2024,Finance,Subscription,Shopee,3732.53,Cash,15000
+4/19/2024,IT,Meals,Grab,215.99,Card,50000
+3/11/2024,Marketing,Software,AirAsia,2870.95,Card,30000
+6/6/2024,Operations,Utilities,Grab,3824.17,Cash,25000
+3/16/2024,Finance,Software,OfficeMate,4389.99,Bank Transfer,15000
+1/16/2024,HR,Meals,Shopee,1743.3,Card,20000
+4/17/2024,IT,Office Supplies,OfficeMate,4115.22,Card,50000
+6/10/2024,Operations,Subscription,Shopee,597.63,Cash,25000
+4/1/2024,Finance,Utilities,TM,4239.94,Bank Transfer,15000
+5/24/2024,Operations,Meals,Shopee,681.07,Bank Transfer,25000
+2/16/2024,HR,Meals,Grab,2016.57,Card,20000
+3/12/2024,HR,Software,OfficeMate,3996.61,Bank Transfer,20000
+5/29/2024,IT,Travel,Google,792.09,Card,50000
+6/17/2024,IT,Meals,OfficeMate,1184.79,Cash,50000
+1/15/2024,IT,Utilities,Shopee,3625.15,Bank Transfer,50000
+2/14/2024,IT,Travel,Maxis,3614.18,Cash,50000
+6/27/2024,Marketing,Utilities,AWS,3223.68,Cash,30000
+6/28/2024,Marketing,Utilities,AirAsia,3485.04,Cash,30000
+2/18/2024,Finance,Utilities,Microsoft,2736.49,Card,15000
+5/5/2024,HR,Subscription,AWS,1296.41,Card,20000
+6/3/2024,IT,Subscription,OfficeMate,1761.2,Bank Transfer,50000
+1/1/2024,Marketing,Utilities,Grab,948.91,Card,30000
+3/28/2024,IT,Meals,AWS,4546.83,Card,50000
+2/7/2024,Operations,Office Supplies,AirAsia,2937.79,Card,25000
+5/14/2024,Marketing,Subscription,Maxis,2034.21,Cash,30000
+6/18/2024,Finance,Utilities,Google,2336.93,Bank Transfer,15000
+3/18/2024,Marketing,Travel,AirAsia,4739.05,Cash,30000
+4/21/2024,Finance,Office Supplies,Maxis,809.09,Card,15000
+6/30/2024,Operations,Office Supplies,Maxis,2951.84,Card,25000
+6/19/2024,Operations,Travel,Shopee,2554.15,Bank Transfer,25000
+6/25/2024,Marketing,Travel,AirAsia,3076.7,Cash,30000
+1/1/2024,Operations,Software,AWS,139.65,Card,25000
+6/3/2024,Marketing,Utilities,Grab,4367.01,Cash,30000
+5/24/2024,HR,Software,AirAsia,4663.99,Bank Transfer,20000
+1/20/2024,IT,Meals,Maxis,2847.41,Card,50000
+6/11/2024,HR,Office Supplies,Maxis,3498.42,Bank Transfer,20000
+1/3/2024,Marketing,Travel,Grab,4616.37,Cash,30000
+1/18/2024,Marketing,Meals,Google,3550.83,Cash,30000
+1/1/2024,HR,Software,TM,805.07,Cash,20000
+4/17/2024,IT,Software,TM,2902.63,Bank Transfer,50000
+3/30/2024,Operations,Software,Google,3053.24,Bank Transfer,25000
+5/27/2024,IT,Travel,TM,2149.45,Card,50000
+1/9/2024,Marketing,Subscription,Maxis,3695.4,Bank Transfer,30000
+1/27/2024,HR,Meals,AirAsia,4675.12,Bank Transfer,20000
+2/11/2024,HR,Utilities,Google,4631.56,Bank Transfer,20000
+6/1/2024,Operations,Software,AWS,2281.65,Bank Transfer,25000
+6/16/2024,IT,Utilities,Shopee,610.53,Card,50000
+1/14/2024,HR,Meals,Grab,4924.96,Card,20000
+4/14/2024,Operations,Office Supplies,OfficeMate,4202.55,Bank Transfer,25000
+6/18/2024,Marketing,Meals,Grab,667.08,Card,30000
+1/13/2024,Finance,Utilities,OfficeMate,4608.17,Bank Transfer,15000
+2/9/2024,HR,Meals,AWS,4355.99,Bank Transfer,20000
+1/23/2024,Marketing,Office Supplies,TM,2618.25,Card,30000
+1/25/2024,HR,Travel,AirAsia,2976.81,Cash,20000
+3/15/2024,HR,Software,Google,2025.06,Bank Transfer,20000
+4/11/2024,Finance,Software,Microsoft,321.07,Card,15000
+6/13/2024,Operations,Software,AirAsia,1709.23,Bank Transfer,25000
+4/7/2024,Marketing,Travel,TM,4024.12,Card,30000
+3/8/2024,Finance,Software,Microsoft,72.93,Card,15000
+3/9/2024,Operations,Subscription,AirAsia,1700.82,Cash,25000
+6/19/2024,HR,Subscription,Maxis,2020.94,Cash,20000
+4/15/2024,Operations,Travel,OfficeMate,2710.11,Card,25000
+4/9/2024,Operations,Software,OfficeMate,4603.29,Cash,25000
+5/1/2024,Operations,Travel,TM,1764.41,Bank Transfer,25000
+1/21/2024,Finance,Office Supplies,AWS,1767.42,Cash,15000
+5/26/2024,Operations,Utilities,AirAsia,3700.63,Card,25000
+4/24/2024,IT,Travel,Grab,2288.48,Card,50000
+2/2/2024,HR,Software,Google,1161.79,Cash,20000
+4/21/2024,IT,Office Supplies,AirAsia,2289.58,Cash,50000
+3/7/2024,Marketing,Office Supplies,Google,747.24,Card,30000
+4/9/2024,Operations,Software,OfficeMate,923.12,Bank Transfer,25000
+3/11/2024,Operations,Software,AWS,2516.92,Cash,25000
+6/8/2024,Operations,Utilities,Shopee,2123.68,Card,25000
+4/16/2024,IT,Travel,Google,4578.49,Card,50000
+5/24/2024,HR,Meals,OfficeMate,1843.85,Bank Transfer,20000
+4/15/2024,Marketing,Software,TM,2923.91,Cash,30000
+6/4/2024,Finance,Subscription,AirAsia,3179.71,Bank Transfer,15000
+4/13/2024,IT,Utilities,Shopee,114.82,Card,50000
+4/11/2024,Marketing,Office Supplies,Grab,3334.51,Card,30000
+5/1/2024,Marketing,Meals,AWS,931.28,Bank Transfer,30000
+3/18/2024,Marketing,Meals,TM,4807.3,Cash,30000
+6/24/2024,HR,Travel,AirAsia,785.88,Bank Transfer,20000
+4/23/2024,Marketing,Meals,Shopee,2102.39,Cash,30000
+6/14/2024,HR,Travel,TM,472.48,Card,20000
+4/14/2024,Finance,Utilities,Maxis,4984.53,Card,15000
+5/11/2024,IT,Subscription,Microsoft,2535.87,Cash,50000
+5/9/2024,Finance,Travel,OfficeMate,2997.16,Cash,15000
+1/8/2024,IT,Travel,Grab,382.03,Card,50000
+3/4/2024,HR,Software,AWS,3762.3,Bank Transfer,20000
+6/29/2024,IT,Meals,Maxis,1089.03,Bank Transfer,50000
+5/9/2024,Finance,Office Supplies,Google,4495.37,Cash,15000
+1/8/2024,IT,Meals,TM,1065.44,Cash,50000
+4/24/2024,IT,Software,OfficeMate,993.9,Bank Transfer,50000
+3/29/2024,IT,Meals,Google,230.92,Bank Transfer,50000
+1/8/2024,Finance,Subscription,AirAsia,2386.73,Cash,15000
+2/24/2024,IT,Office Supplies,Grab,2845.96,Cash,50000
+2/22/2024,Marketing,Office Supplies,Shopee,375.26,Cash,30000
+1/6/2024,HR,Software,AirAsia,3888.86,Cash,20000
+2/14/2024,Operations,Subscription,Grab,2293.78,Bank Transfer,25000
+6/4/2024,Marketing,Office Supplies,Microsoft,2645.73,Bank Transfer,30000
+4/6/2024,Marketing,Software,Microsoft,2231.78,Card,30000
+4/29/2024,Marketing,Office Supplies,OfficeMate,2033.78,Cash,30000
+4/11/2024,Operations,Subscription,AWS,2820.22,Cash,25000
+6/18/2024,Marketing,Utilities,Microsoft,818.44,Bank Transfer,30000
+6/24/2024,HR,Software,Google,950.54,Bank Transfer,20000
+3/11/2024,Marketing,Meals,Microsoft,4315.84,Cash,30000
+6/15/2024,Marketing,Travel,AirAsia,4733.27,Cash,30000
+3/2/2024,HR,Utilities,Shopee,1897.88,Cash,20000
+3/22/2024,IT,Office Supplies,AWS,1390.19,Cash,50000
+5/7/2024,Marketing,Meals,Shopee,3237.8,Bank Transfer,30000
+4/9/2024,HR,Utilities,Grab,2073.23,Bank Transfer,20000
+2/26/2024,Operations,Office Supplies,TM,175.66,Cash,25000
+4/1/2024,Operations,Meals,AirAsia,822.96,Cash,25000
+5/22/2024,IT,Meals,Google,3594.06,Bank Transfer,50000
+2/2/2024,Marketing,Office Supplies,OfficeMate,3311.67,Card,30000
+6/23/2024,Marketing,Office Supplies,Google,184.13,Card,30000
+3/31/2024,IT,Office Supplies,Microsoft,1148.76,Bank Transfer,50000
+3/25/2024,Marketing,Meals,Microsoft,1193.82,Bank Transfer,30000
+1/31/2024,Finance,Subscription,Google,3375.87,Bank Transfer,15000
+2/19/2024,Operations,Subscription,Shopee,147.57,Cash,25000
+3/17/2024,Finance,Subscription,AirAsia,565.34,Card,15000
+2/21/2024,Marketing,Software,TM,4009.58,Card,30000
+3/21/2024,IT,Subscription,TM,933.8,Bank Transfer,50000
+6/10/2024,IT,Meals,AWS,3281.09,Card,50000
+4/25/2024,Marketing,Travel,AirAsia,1229,Cash,30000
+2/10/2024,Finance,Subscription,AirAsia,542.23,Cash,15000
+4/21/2024,Finance,Software,Shopee,1253.7,Bank Transfer,15000
+4/8/2024,HR,Subscription,OfficeMate,3625.22,Card,20000
+4/5/2024,HR,Meals,OfficeMate,4285.7,Card,20000
+1/5/2024,HR,Office Supplies,Grab,4159.59,Card,20000
+6/26/2024,Marketing,Meals,AirAsia,2016.06,Card,30000
+4/8/2024,Operations,Utilities,Microsoft,3357.02,Card,25000
+1/17/2024,HR,Meals,Microsoft,1064.67,Bank Transfer,20000
+5/13/2024,Operations,Utilities,Maxis,1501.08,Bank Transfer,25000
+6/24/2024,IT,Meals,TM,4486.86,Bank Transfer,50000
+2/18/2024,IT,Software,AWS,114.36,Card,50000
+2/27/2024,IT,Travel,AWS,473.27,Cash,50000
+5/9/2024,IT,Subscription,Maxis,1079.04,Cash,50000
+6/15/2024,HR,Software,Microsoft,181.33,Cash,20000
+6/8/2024,HR,Utilities,AWS,948.11,Cash,20000
+1/28/2024,HR,Subscription,Google,2936.06,Bank Transfer,20000
+4/23/2024,Finance,Subscription,OfficeMate,2136.05,Bank Transfer,15000
+5/1/2024,IT,Travel,AWS,4468.72,Bank Transfer,50000
+4/17/2024,HR,Office Supplies,OfficeMate,4096.35,Bank Transfer,20000
+6/8/2024,Operations,Office Supplies,AirAsia,1742,Bank Transfer,25000
+1/27/2024,Operations,Office Supplies,Google,1334.15,Bank Transfer,25000
+1/30/2024,HR,Software,Grab,1929.48,Cash,20000
+2/21/2024,Marketing,Utilities,Grab,2971.96,Bank Transfer,30000
+6/29/2024,Finance,Meals,AirAsia,1376.92,Card,15000
+5/20/2024,Finance,Travel,TM,3139.54,Bank Transfer,15000
+3/1/2024,HR,Subscription,Google,2076.59,Card,20000
+5/26/2024,Finance,Travel,Google,2782.63,Cash,15000
+1/20/2024,HR,Meals,Grab,2208.83,Bank Transfer,20000
+3/16/2024,Marketing,Software,AWS,1507.61,Card,30000
+2/14/2024,HR,Meals,Maxis,4744.84,Cash,20000
+3/21/2024,Finance,Office Supplies,Google,3829.85,Card,15000
+1/12/2024,HR,Travel,AirAsia,743.56,Bank Transfer,20000
+4/1/2024,Finance,Utilities,Microsoft,4348.92,Cash,15000
+1/24/2024,Marketing,Meals,AirAsia,2462.78,Card,30000
+4/12/2024,Finance,Software,Microsoft,4478.03,Bank Transfer,15000
+6/25/2024,Finance,Software,AirAsia,4009.28,Card,15000
+2/3/2024,HR,Travel,Google,2154.81,Bank Transfer,20000
+5/31/2024,Finance,Utilities,TM,161.22,Card,15000
+6/5/2024,Finance,Meals,AWS,1379.95,Cash,15000
+2/3/2024,Finance,Software,Google,2731.09,Bank Transfer,15000
+4/22/2024,HR,Subscription,Microsoft,3185.72,Cash,20000
+3/21/2024,HR,Office Supplies,OfficeMate,1326.54,Cash,20000
+5/27/2024,Operations,Travel,Maxis,739.81,Cash,25000
+5/13/2024,Operations,Subscription,Shopee,4182.9,Cash,25000
+3/4/2024,Finance,Meals,Shopee,4922.79,Card,15000
+5/22/2024,Operations,Subscription,AWS,2652.17,Cash,25000
+2/10/2024,Operations,Software,TM,899.81,Card,25000
+1/20/2024,Finance,Meals,Grab,1397.92,Bank Transfer,15000
+3/12/2024,HR,Utilities,Grab,141.03,Cash,20000
+6/13/2024,Finance,Software,Grab,4575.78,Card,15000
+4/27/2024,Finance,Utilities,TM,632.87,Card,15000
+5/7/2024,Finance,Meals,Google,2903.76,Bank Transfer,15000
+6/16/2024,HR,Subscription,Shopee,1406.57,Bank Transfer,20000
+1/10/2024,Operations,Utilities,AWS,2793.18,Card,25000
+6/3/2024,Operations,Office Supplies,Microsoft,3274.53,Cash,25000
+5/23/2024,IT,Office Supplies,TM,4157.22,Bank Transfer,50000
+4/3/2024,HR,Travel,TM,1071.79,Bank Transfer,20000
+5/23/2024,Operations,Utilities,TM,104.43,Cash,25000
+6/17/2024,Marketing,Office Supplies,TM,727.58,Card,30000
+1/25/2024,IT,Subscription,Maxis,4505.09,Bank Transfer,50000
+6/11/2024,Marketing,Utilities,OfficeMate,4375.76,Bank Transfer,30000
+6/28/2024,HR,Subscription,AirAsia,3007.19,Bank Transfer,20000
+2/5/2024,Finance,Subscription,Microsoft,3022.56,Cash,15000
+2/20/2024,IT,Subscription,Shopee,3341.93,Card,50000
+4/27/2024,IT,Office Supplies,Maxis,918.09,Card,50000
+4/16/2024,HR,Office Supplies,Google,4576.34,Bank Transfer,20000
+4/27/2024,Operations,Utilities,AirAsia,2122.91,Bank Transfer,25000
+1/2/2024,Operations,Office Supplies,AWS,1946.54,Cash,25000
+4/20/2024,Operations,Software,OfficeMate,2618.64,Card,25000
+6/26/2024,Operations,Travel,AirAsia,282.48,Card,25000
+4/9/2024,Operations,Utilities,Maxis,873.1,Cash,25000
+4/8/2024,Finance,Utilities,Grab,3703.27,Bank Transfer,15000
+4/11/2024,Marketing,Meals,TM,459.85,Card,30000
+2/5/2024,Finance,Utilities,OfficeMate,3035.6,Bank Transfer,15000
+6/28/2024,Operations,Meals,OfficeMate,1264.48,Cash,25000
+2/25/2024,IT,Travel,Microsoft,1977.01,Cash,50000
+3/29/2024,IT,Office Supplies,AirAsia,1479.03,Cash,50000
+5/18/2024,Marketing,Office Supplies,Google,1810.58,Bank Transfer,30000
+5/23/2024,Finance,Utilities,Shopee,3609.28,Cash,15000
+5/16/2024,Marketing,Software,AWS,1520.75,Cash,30000
+1/28/2024,HR,Software,AirAsia,2853.7,Card,20000
+6/20/2024,HR,Travel,Microsoft,2406.45,Card,20000
+3/14/2024,Marketing,Travel,AWS,3335.17,Cash,30000
+3/16/2024,IT,Utilities,AWS,4687.31,Bank Transfer,50000
+4/25/2024,HR,Utilities,OfficeMate,3676.23,Card,20000
+6/14/2024,Operations,Software,Grab,1113.95,Cash,25000
+6/27/2024,Marketing,Office Supplies,AWS,204.36,Bank Transfer,30000
+4/9/2024,Finance,Office Supplies,Maxis,1348.21,Cash,15000
+1/14/2024,HR,Office Supplies,Microsoft,2995.64,Card,20000
+6/7/2024,Finance,Travel,Maxis,304.56,Cash,15000
+5/19/2024,Operations,Travel,Grab,2507.01,Bank Transfer,25000
+4/24/2024,IT,Office Supplies,Google,3004.37,Card,50000
+2/14/2024,Operations,Subscription,Shopee,1704.51,Card,25000
+4/19/2024,Marketing,Utilities,Microsoft,3866.02,Card,30000
+2/11/2024,Operations,Meals,AWS,577.66,Bank Transfer,25000
+4/29/2024,IT,Subscription,AirAsia,421.93,Bank Transfer,50000
+6/1/2024,HR,Office Supplies,Microsoft,3654.53,Bank Transfer,20000
+5/26/2024,Operations,Meals,Google,2502.68,Cash,25000
+3/22/2024,Operations,Travel,AirAsia,3457.59,Cash,25000
+1/18/2024,Operations,Travel,Shopee,2202.4,Cash,25000
+5/17/2024,Finance,Subscription,Maxis,1269.69,Card,15000
+2/24/2024,Marketing,Meals,Maxis,4104.56,Bank Transfer,30000
+2/25/2024,Operations,Utilities,TM,4007.11,Cash,25000
+6/15/2024,HR,Subscription,Maxis,3488.75,Bank Transfer,20000
+3/2/2024,Operations,Utilities,Grab,1397.12,Card,25000
+6/23/2024,Marketing,Software,Google,2971.64,Bank Transfer,30000
+3/6/2024,Operations,Office Supplies,Microsoft,1836.82,Card,25000
+5/12/2024,Marketing,Utilities,OfficeMate,503.33,Bank Transfer,30000
+5/4/2024,HR,Meals,Grab,4590.7,Bank Transfer,20000
+5/11/2024,HR,Subscription,AirAsia,727.25,Cash,20000
+5/16/2024,HR,Office Supplies,Google,4753.67,Card,20000
+6/20/2024,IT,Office Supplies,Shopee,2257.73,Card,50000
