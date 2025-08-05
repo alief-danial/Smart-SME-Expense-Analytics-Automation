@@ -50,9 +50,7 @@ Smart-SME-Expense-Analytics-Automation/
 ├── Data/
 │ └── expense_data.csv
 ├── SQL_Scripts/
-│ ├── create_tables.sql
-│ ├── insert_sample_data.sql
-│ ├── expense_summary_queries.sql
+│ ├── full_setup.sql
 ├── Python_Scripts/
 │ └── expense_cleaning_and_anomaly_detection.ipynb
 ├── PowerBI_Dashboard/
