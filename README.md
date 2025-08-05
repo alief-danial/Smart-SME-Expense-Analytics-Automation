@@ -48,7 +48,7 @@ This project addresses these challenges by automating the entire expense analyti
 <pre>
 Smart-SME-Expense-Analytics-Automation/
 ├── Data/
-│ └── swipey_expense_data.csv
+│ └── expense_data.csv
 ├── SQL_Scripts/
 │ ├── create_tables.sql
 │ ├── insert_sample_data.sql
