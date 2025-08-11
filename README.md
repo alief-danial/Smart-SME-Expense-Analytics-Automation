@@ -59,7 +59,7 @@ Smart-SME-Expense-Analytics-Automation/
 
 ---
 ## Dashboard Preview
-<img width="655" height="380" alt="image" src="https://github.com/user-attachments/assets/db61a818-de12-4002-9bfc-1b8aaba065ed" />
+<img width="1418" height="792" alt="Dashboard" src="https://github.com/user-attachments/assets/0fba3013-2958-4711-b0b7-788408b2fbac" />
 
 ---
 
